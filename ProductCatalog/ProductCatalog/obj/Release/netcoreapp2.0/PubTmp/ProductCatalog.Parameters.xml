@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ProductCatalogBauer" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\wolfi\\Desktop\\Schulordner_5AHIF\\C\#\\Hausübungen\\5_Hausübung\\Clone\\ProductCatalog\\ProductCatalog\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

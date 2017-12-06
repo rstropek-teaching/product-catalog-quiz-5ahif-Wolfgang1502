@@ -1,0 +1,9 @@
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ProductCatalog
+--content-root=C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog
+--file=C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\Views\Products\Create.cshtml
+--file=C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\Views\Products\Delete.cshtml
+--file=C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\Views\Products\Details.cshtml
+--file=C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\Views\Products\FoundProducts.cshtml
+--file=C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\Views\Products\Index.cshtml

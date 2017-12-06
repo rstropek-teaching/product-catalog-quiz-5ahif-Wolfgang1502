@@ -1,0 +1,11 @@
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\bin\Release\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\bin\Release\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\bin\Release\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\bin\Release\netcoreapp2.0\ProductCatalog.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\bin\Release\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\obj\Release\netcoreapp2.0\ProductCatalog.csprojResolveAssemblyReference.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\obj\Release\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\obj\Release\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\obj\Release\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\obj\Release\netcoreapp2.0\ProductCatalog.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\5_Hausübung\Clone\ProductCatalog\ProductCatalog\obj\Release\netcoreapp2.0\ProductCatalog.pdb
